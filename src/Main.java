@@ -7,6 +7,7 @@ public class Main {
 		// Aprendendo Estrutura de dados!!
 		// Passo 1: importando blibliotecas
 		// Passo 2: Criar Menu do programa
+		// Passo 3: Criar classes
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
